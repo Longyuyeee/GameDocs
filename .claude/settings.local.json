@@ -2,8 +2,40 @@
   "permissions": {
     "allow": [
       "WebSearch",
+      "WebFetch(domain:manuals.marvelousgames.com)",
+      "WebFetch(domain:therunefactory.fandom.com)",
+      "Bash(mkdir:*)",
+      "Bash(wc:*)",
+      "WebFetch(domain:zh.wikipedia.org)",
+      "Bash(do:*)",
+      "Bash(\"E:/Project/AIProject/ClaudeProject/FarmProject/docs/game-research/珊瑚岛/机制分析/游戏总览.md\":*)",
+      "Bash(\"E:/Project/AIProject/ClaudeProject/FarmProject/docs/game-research/夜勤人/机制分析/游戏总览.md\":*)",
+      "WebFetch(domain:ranchstory.farm)",
+      "Bash(\"E:/Project/AIProject/ClaudeProject/FarmProject/docs/game-research/重聚矿石镇/机制分析/经济系统.md\":*)",
       "Bash(ls:*)",
-      "Bash(mkdir:*)"
+      "WebFetch(domain:antifandom.com)",
+      "WebFetch(domain:stratswiki.com)",
+      "Bash(curl:*)",
+      "WebFetch(domain:harvestmoon.fandom.com)",
+      "WebFetch(domain:strategywiki.org)",
+      "Bash(head:*)",
+      "WebFetch(domain:newsrant.org)",
+      "WebFetch(domain:www.thegamer.com)",
+      "WebFetch(domain:game8.co)",
+      "WebFetch(domain:sequentialplanet.com)",
+      "Bash(git:*)",
+      "Bash(sed:*)",
+      "Bash(do echo:*)",
+      "WebFetch(domain:store.steampowered.com)",
+      "WebFetch(domain:steamcommunity.com)",
+      "WebFetch(domain:www.zhaogonglue.com)",
+      "WebFetch(domain:www.diablofans.com.cn)",
+      "WebFetch(domain:pinogamer.com)",
+      "WebFetch(domain:ladiesgamers.com)",
+      "WebFetch(domain:www.siliconera.com)",
+      "WebFetch(domain:ricedigital.co.uk)",
+      "WebFetch(domain:www.digitallydownloaded.net)",
+      "WebFetch(domain:noisypixel.net)"
     ]
   }
 }
