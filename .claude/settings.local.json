@@ -37,7 +37,9 @@
       "WebFetch(domain:www.digitallydownloaded.net)",
       "WebFetch(domain:noisypixel.net)",
       "Bash(echo === 最薄机制文档\\(均<25KB\\) ===:*)",
-      "Bash(python3:*)"
+      "Bash(python3:*)",
+      "WebFetch(domain:mytimeatportia.fandom.com)",
+      "Bash(find:*)"
     ]
   }
 }
