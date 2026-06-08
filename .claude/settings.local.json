@@ -35,7 +35,8 @@
       "WebFetch(domain:www.siliconera.com)",
       "WebFetch(domain:ricedigital.co.uk)",
       "WebFetch(domain:www.digitallydownloaded.net)",
-      "WebFetch(domain:noisypixel.net)"
+      "WebFetch(domain:noisypixel.net)",
+      "Bash(echo === 最薄机制文档\\(均<25KB\\) ===:*)"
     ]
   }
 }
