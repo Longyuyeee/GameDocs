@@ -39,7 +39,17 @@
       "Bash(echo === 最薄机制文档\\(均<25KB\\) ===:*)",
       "Bash(python3:*)",
       "WebFetch(domain:mytimeatportia.fandom.com)",
-      "Bash(find:*)"
+      "Bash(find:*)",
+      "Bash(mkdir:*)",
+      "Bash(git pull:*)",
+      "WebFetch(domain:kairosoft.fandom.com)",
+      "WebFetch(domain:game.3loumao.org)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:wiki.biligame.com)",
+      "WebFetch(domain:mzh.moegirl.org.cn)",
+      "Read(//e/ProjectSave/GeminiProject/GameDocs/**)",
+      "Bash(done)",
+      "WebFetch(domain:www.kairogameguides.com)"
     ]
   }
 }
