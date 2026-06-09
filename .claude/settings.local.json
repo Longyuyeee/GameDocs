@@ -49,7 +49,8 @@
       "WebFetch(domain:mzh.moegirl.org.cn)",
       "Read(//e/ProjectSave/GeminiProject/GameDocs/**)",
       "Bash(done)",
-      "WebFetch(domain:www.kairogameguides.com)"
+      "WebFetch(domain:www.kairogameguides.com)",
+      "Bash(du:*)"
     ]
   }
 }
