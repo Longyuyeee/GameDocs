@@ -1,54 +1,190 @@
 # 地牢与Boss数据 - 符文工房5(Rune Factory 5)
 
 > 游戏版本: Rune Factory 5 (Switch/PC, 2021-2022年)
-> 数据来源: therunefactory.fandom.com, Game8
+> 数据来源: therunefactory.fandom.com, Game8, Steam社区
+> 最后更新: 2024-06
 
-## 一、全部18地牢
+## 一、主线地牢总览(18个区域)
 
-| # | 地牢 | Boss/关键敌人 | 主线阶段 |
-|:--:|------|------|:--:|
-| 1 | Whispering Woods | 九尾狐→Misasagi | Act 1 |
-| 2 | Belpha Ruins | 符文异常 | Act 1 |
-| 3 | Kelve Lava Caves | 火山怪物 | Act 1 |
-| 4 | Meline Crystal Caverns | 水晶怪物 | Act 2 |
-| 5 | Atohl's End | 逃犯 | Act 2 |
-| 6 | Gadeus Grasslands | 狂乱怪物 | Act 3 |
-| 7 | Bandit King's Old Base | Ludmilla招募 | Act 3 |
-| 8 | Belpha Ruins - Depths | 符文水晶1 | Act 4 |
-| 9 | Meline Caverns - Depths | 符文水晶2 | Act 4 |
-| 10 | Kelve Caves - Depths | 符文水晶3 | Act 4 |
-| 11 | Forest of No Return | 符文水晶4 | Act 4 |
-| 12 | Everlasting Darkness | **Radea** | Act 4 |
-| 13 | Basara's Hideaway | Oswald | Act 5 |
-| 14 | Thundering Wastes | Lucas记忆 | Act 5 |
-| 15 | Cloudheim | 天空守卫 | Act 5 |
-| 16 | SEED Floating Fortress | **Gideon** | Act 5 |
-| 17 | Calamity's Edge | **深渊恐怖(Fathomless Dread)** | Act 5 |
-| 18 | Rigbarth Maze | 终极挑战 | Post-game |
+RF5的主线分为5个Act, 共包含18个独立地牢/区域。相比RF4的12个地牢, RF5在数量上有所增加。
 
-## 二、四大Boss
+### Act 1 (春-夏)
 
-| Boss | 位置 | HP估算 | 阶段 | 元素 |
-|------|:--:|:---:|:--:|:--:|
-| Radea(龙形) | Everlasting Darkness | 高 | 单阶段 | 黑暗 |
-| Gideon | 浮空要塞 | 极高 | 多阶段 | 符文 |
-| 深渊恐怖(Fathomless Dread) | Calamity's Edge | **最高** | 多阶段 | 暗/混沌 |
-| Rigbarth Maze Boss | 通关后 | 极极高 | 最强 | 综合 |
+| # | 地牢名 | 推荐Lv | 楼层数 | 主线Boss | 开放季节 |
+|:-:|------|:-----:|:-----:|---------|:-------:|
+| 1 | Whispering Woods(低语森林) | 5-10 | 2 | 九尾狐(Misasagi) | 春 |
+| 2 | Belpha Ruins(贝尔法遗迹) | 10-15 | 3 | 地狱犬(Cerberus) | 春 |
+| 3 | Kelve Lava Caves(凯尔维熔岩洞) | 15-20 | 3 | 死神钳(?) | 夏 |
+| 4 | Meline Crystal Caverns(梅林水晶洞窟) | 20-25 | 3 | 水晶守卫 | 夏 |
 
-## 三、通缉怪物(Wanted Monsters)
+### Act 2 (夏-秋)
 
-| 等级 | 奖励 | 难度 |
-|:--:|------|:--:|
-| ★ | 基础SEED点+金币 | 低 |
-| ★★ | 中量SEED点 | 中 |
-| ★★★ | 大量SEED点+稀有材料 | 中高 |
-| ★★★★ | 最高SEED点+传说材料 | 高 |
-| ★★★★★ | 极限奖励 | 极限 |
+| # | 地牢名 | 推荐Lv | 楼层数 | 主线Boss | 开放季节 |
+|:-:|------|:-----:|:-----:|---------|:-------:|
+| 5 | Atohl's End(阿托尔之末) | 25-30 | 3 | 逃犯头目 | 夏 |
+| 6 | Gadeus Grasslands(加迪斯草原) | 30-35 | 2 | 刺针兽(Needle Beast) | 秋 |
+| 7 | Bandit King's Old Base(盗贼王旧基地) | 35-40 | 3 | 间歇熊(Geyser Bear)/龙魔像(Dragon Golem) | 秋 |
 
-## 四、SEED徽章等级
+### Act 3 (秋-冬)
 
-| 等级 | 条件 | 解锁 |
-|:--:|------|------|
-| 初级 | 加入SEED | 基础任务 |
-| 1级↑ | 完成委托+通缉 | 新指令/节日 |
-| 高级 | 大量完成任务 | 全部功能 |
+| # | 地牢名 | 推荐Lv | 楼层数 | 主线Boss | 开放季节 |
+|:-:|------|:-----:|:-----:|---------|:-------:|
+| 8 | Belpha Ruins - Depths(贝尔法遗迹深层) | 40-45 | 2 | 符文水晶(火) | 秋 |
+| 9 | Meline Caverns - Depths(梅林洞窟深层) | 42-47 | 2 | 符文水晶(水) | 冬 |
+| 10 | Kelve Caves - Depths(凯尔维洞窟深层) | 45-50 | 2 | 符文水晶(风) | 冬 |
+| 11 | Forest of No Return(不归森林) | 48-55 | 3 | 符文水晶(地) | 冬 |
+
+### Act 4 (冬)
+
+| # | 地牢名 | 推荐Lv | 楼层数 | Boss | 开放季节 |
+|:-:|------|:-----:|:-----:|------|:-------:|
+| 12 | Everlasting Darkness(永恒黑暗) | 55-65 | 4 | **Radea(龙神)** | 冬 |
+
+### Act 5 (通关后开放区域)
+
+| # | 地牢名 | 推荐Lv | 楼层数 | Boss | 开放条件 |
+|:-:|------|:-----:|:-----:|------|---------|
+| 13 | Basara's Hideaway(婆娑罗藏身处) | 60-70 | 3 | Oswald | Act 5 |
+| 14 | Thundering Wastes(雷鸣废土) | 65-75 | 3 | 美杜莎(Medusa) | Act 5 |
+| 15 | Cloudheim(云上天国) | 70-80 | 3 | 天空守卫 | Act 5 |
+| 16 | SEED Floating Fortress(SEED浮空要塞) | 75-85 | 4 | **Gideon** | Act 5 |
+| 17 | Calamity's Edge(灾厄之崖) | 80-90 | 3 | **深渊恐怖(Fathomless Dread)** | Act 5 |
+| 18 | Rigbarth Maze(里格巴斯迷宫) | 90-200 | 20层 | 历代Boss合集 | 通关后 |
+
+## 二、主线Boss详细数据
+
+### 九尾狐(Misasagi / Nine-Tailed Fox)
+- **位置**: Whispering Woods 深处
+- **推荐等级**: 10+
+- **HP**: 约3,000
+- **弱点**: 地属性
+- **抗性**: 风属性
+- **掉落**: 九尾狐铃铛(Nine-Tailed Fox Bell)、狐狸毛、爪
+- **特殊**: 可驯服(需九尾狐铃铛+投喂); 驯服后是优秀的早期战斗伙伴/坐骑
+- **阶段**: 单阶段
+
+### 地狱犬(Cerberus)
+- **位置**: Belpha Ruins B3
+- **推荐等级**: 15+
+- **HP**: 约5,000
+- **弱点**: 水属性
+- **抗性**: 火属性
+- **掉落**: 地狱犬牙、兽皮、红结晶
+- **特殊**: 三头攻击模式, 喷火AOE
+- **阶段**: 单阶段
+
+### 间歇熊(Geyser Bear)
+- **位置**: Bandit King's Old Base 1F
+- **推荐等级**: 35+
+- **HP**: 约12,000
+- **弱点**: 风属性
+- **抗性**: 地属性
+- **掉落**: 熊爪、兽皮、温泉石
+- **特殊**: 喷水AOE, 可驯服
+- **阶段**: 单阶段
+
+### 龙魔像(Dragon Golem)
+- **位置**: Bandit King's Old Base 3F
+- **推荐等级**: 40+
+- **HP**: 约20,000
+- **弱点**: 无(全属性均等)
+- **抗性**: 无
+- **掉落**: 龙魔像鳞片、龙魔像灰、核心碎片
+- **特殊**: 大型Boss, 攻击范围大, 可驯服
+- **阶段**: 单阶段
+
+### Radea(龙神)
+- **位置**: Everlasting Darkness(永恒黑暗)最深处
+- **推荐等级**: 60+
+- **HP**: 约50,000
+- **弱点**: 光属性(若有)/全属性均等
+- **抗性**: 暗属性
+- **掉落**: Radea鳞片、龙神之泪、龙牙
+- **特殊**: **Act 4最终Boss**; 黑暗龙形, 大范围暗属性攻击; 击败后触发第一次Staff Roll
+- **阶段**: 单阶段(但攻击模式随HP变化)
+
+### Gideon(吉迪恩)
+- **位置**: SEED Floating Fortress 顶层
+- **推荐等级**: 80+
+- **HP**: 约120,000
+- **弱点**: 全属性均等(无特别弱点)
+- **抗性**: 物理高抗
+- **掉落**: Gideon之证、符文碎片、高阶结晶
+- **特殊**: **Act 5主线最终Boss**; 多阶段战斗(P1人形/P2强化/P3狂暴); 使用多种符文魔法; 剧情核心反派
+- **阶段**: 3阶段
+
+### 深渊恐怖(Fathomless Dread)
+- **位置**: Calamity's Edge 最深处
+- **推荐等级**: 90+
+- **HP**: 约200,000
+- **弱点**: 无
+- **抗性**: 全属性高抗
+- **掉落**: 深渊结晶、暗物质、恐惧之核
+- **特殊**: **隐藏最终Boss**; 游戏中最强常规Boss; 多阶段(P1海鳐形态/P2人形/P3全屏AOE)
+- **阶段**: 3阶段
+
+### Rigbarth Maze 各层Boss
+
+| 层数(约) | Boss | HP约 | 备注 |
+|:-------:|------|:---:|------|
+| 5F | 九尾狐(强化版) | 50,000 | 前期复习 |
+| 10F | 龙魔像(强化版) | 80,000 | 中期 |
+| 15F | 深渊恐怖(强化版) | 200,000+ | 后期 |
+| 19F | 历代Boss合集 | 300,000 | 车轮战 |
+| 20F | **迷宫之王** | **500,000+** | 终极挑战 |
+
+## 三、地牢怪物种类(按区域略举)
+
+| 地牢 | 常见怪物 | 特殊掉落 |
+|------|---------|---------|
+| Whispering Woods | Chipsqueek, Big Muck, Wooly, Buffamoo | 皮毛、牛奶、孢子 |
+| Belpha Ruins | Skeleton, Ghost, Bat | 骨片、暗之粉 |
+| Kelve Lava Caves | Goblin, Fire Slime, Mamadoodle | 炎之结晶、蛋 |
+| Meline Crystal Caverns | Crystal Wolf, Ice Slime, Emperor Penguin | 水晶碎片、冰结晶、羽毛 |
+| Gadeus Grasslands | Orc, Flower Lion, Hunter Wolf | 兽人牙、植物茎、金狼牙 |
+| Thundering Wastes | Boltguin, Thunder Golem, Medusa | 雷结晶、雷鸟羽 |
+| Cloudheim | Griffin, Angel, Sky Dragon | 狮鹫羽、天使羽 |
+| Rigbarth Maze | 全部以上Boss+强化版 | 终极材料 |
+
+## 四、通缉怪物(Wanted Monsters)系统
+
+通过SEED任务板接取, 击败特定强化怪物获得SEED点+奖励。
+
+| 星级 | 推荐等级 | 难度 | SEED点奖励 | 特殊奖励 |
+|:---:|:-------:|:---:|:---------:|---------|
+| ★ | 5-10 | 低 | 50-100 | 基础材料 |
+| ★★ | 10-20 | 中低 | 100-200 | 普通材料+少量金币 |
+| ★★★ | 20-40 | 中 | 200-400 | 优质材料+配方 |
+| ★★★★ | 40-70 | 中高 | 400-800 | 稀有材料+高级配方 |
+| ★★★★★ | 70-100 | 高 | 800-1500+ | **传说材料+终极配方** |
+
+> **策略意义**: 通缉怪物是获取稀有材料(如龙鳞/奥利哈钢)的重要途径, 同时也是SEED点的主要来源。★★★★★通缉怪物的某些掉落物是制作终极武器的必需品。
+
+## 五、SEED徽章等级系统
+
+| 等级 | 所需条件 | 解锁内容 |
+|:---:|---------|---------|
+| 入门(Candidate) | 加入SEED | 基础任务接取 |
+| SEED Ranger 1级 | 完成任务 | SEED指令节日x2 |
+| SEED Ranger 2级 | 大量任务+通缉 | 传送点折扣/商店折扣/更多节日 |
+| SEED Ranger 3级 | 大量任务+通缉 | 全节日解锁/高级任务/折扣最大化 |
+| SEED Ranger 4级 | 极限任务完成 | 终极奖励 |
+
+### SEED等级解锁福利
+
+| SEED等级 | 传送费折扣 | 商店折扣 | 任务数量 | 节日数量 |
+|:-------:|:---------:|:-------:|:-------:|:-------:|
+| 入门 | 0% | 0% | 基础 | 0 |
+| 1级 | 10% | 5% | 中 | 2 |
+| 2级 | 25% | 10% | 多 | 4 |
+| 3级 | 50% | 20% | 最多 | 全解锁 |
+| 4级 | 75% | 30% | 最多+特殊 | 全解锁 |
+
+## 六、设计特点分析
+
+1. **数量多但深度浅**: RF5的18个主线区域比RF4的12个多, 但每个地牢的楼层数和复杂度低于RF4
+2. **传送点密集**: 3D地图中几乎每个地牢入口都有传送点, 减少了跑路时间
+3. **符文水晶Boss重复**: Act 4的4个符文水晶Boss在机制上较为重复(只有属性不同)
+4. **Rigbarth Maze是真正的终局**: 20层+历代Boss合集+游戏最强装备材料, 是通关后的核心挑战内容
+5. **全3D地牢设计**: 首次全3D化后, 地牢视觉表现力大幅提升, 但跳跃和镜头操作有时不够流畅
+6. **难度曲线**: 主线流程难度平缓(种田玩家也能通关), Act 5和Rigbarth Maze的难度陡增(需要装备+技能支撑)
